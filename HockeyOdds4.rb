@@ -80,6 +80,7 @@ def print_choices
 end
 
 def choose_away_team
+  print_choices
 end
 
 def simulate
